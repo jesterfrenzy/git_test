@@ -1,0 +1,1 @@
+This is Frenzy's first git project!
